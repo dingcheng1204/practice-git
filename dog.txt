@@ -1,4 +1,0 @@
-cat3
-dog2
-cat file
-dog file
